@@ -1,0 +1,18 @@
+Source: https://www.kaggle.com/datasets/mexwell/boxing-matches
+
+Attributes:
+age_A, age_B: age of the boxer
+height_A, height_B: height (in cm)
+reach_A, reach_B: arm reach (in cm)
+stance_A, stance_B: type of stance, 'orthodox' or 'southpaw'
+weight_A, weight_B: weight (in lbs)
+won_A, won_B: number of wins
+lost_A, lost_B: number of losses
+drawn_A	drawn_B: number of draws
+kos_A, kos_B: number of kos
+result: match result. 'win_A', 'win_B', or 'draw'
+decision: match conclusion. 'UD' (unanimous decision), 'SD' (split draw), 'MD' (majority decision), 'PTS' (points), 'KO', 'TKO' (technical KO), 'TD', 'RTD' (retired), 'DQ' (disqualification)
+  See this link for abbreviations: https://www.boxingbase.com/boxing-results-explained/
+judge1_A, judge1_B: scores of judge 1
+judge2_A, judge2_B: scores of judge 2
+judge3_A, judge3_B: scores of judge 3

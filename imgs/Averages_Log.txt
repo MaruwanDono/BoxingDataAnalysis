@@ -1,0 +1,62 @@
+Global means:
+{'age': 26.91, 'age_diff': -1.41, 'reach': 181.46, 'reach_diff': 0.88, 'won': 30.75, 'won_diff': 3.26, 'kos': 18.23, 'kos_diff': 2.35}
+Means for cluster number 1 (size 2868) for K=4:
+{'age': 27.5, 'age_diff': -0.62, 'reach': 182.12, 'reach_diff': 0.82, 'won': 29.47, 'won_diff': 1.98, 'kos': 18.17, 'kos_diff': 1.97}
+Relative differences to global means (%):
+[2.15, 127.42, 0.36, 7.32, 4.34, 64.65, 0.33, 19.29]
+Average (%):  28.23
+Means for cluster number 2 (size 1134) for K=4:
+{'age': 34.8, 'age_diff': 6.34, 'reach': 185.4, 'reach_diff': 0.61, 'won': 40.48, 'won_diff': 14.46, 'kos': 25.38, 'kos_diff': 8.67}
+Relative differences to global means (%):
+[22.67, 122.24, 2.13, 44.26, 24.04, 77.46, 28.17, 72.9]
+Average (%):  49.23
+Means for cluster number 3 (size 2777) for K=4:
+{'age': 22.5, 'age_diff': -6.21, 'reach': 179.29, 'reach_diff': 1.49, 'won': 15.86, 'won_diff': -9.37, 'kos': 9.74, 'kos_diff': -4.46}
+Relative differences to global means (%):
+[19.6, 77.29, 1.21, 40.94, 93.88, 134.79, 87.17, 152.69]
+Average (%):  75.95
+Means for cluster number 4 (size 376) for K=4:
+{'age': 31.11, 'age_diff': 4.58, 'reach': 180.57, 'reach_diff': -2.39, 'won': 121.15, 'won_diff': 72.61, 'kos': 59.76, 'kos_diff': 36.6}
+Relative differences to global means (%):
+[13.5, 130.79, 0.49, 136.82, 74.62, 95.51, 69.49, 93.58]
+Average (%):  76.85
+
+
+
+Global means:
+{'age': 26.91, 'age_diff': -1.41, 'reach': 181.46, 'reach_diff': 0.88, 'won': 30.75, 'won_diff': 3.26, 'kos': 18.23, 'kos_diff': 2.35}
+Means for cluster number 1 (size 232) for K=7:
+{'age': 32.16, 'age_diff': 5.66, 'reach': 180.43, 'reach_diff': -3.19, 'won': 141.76, 'won_diff': 95.12, 'kos': 66.2, 'kos_diff': 45.19}
+Relative differences to global means (%):
+[16.32, 124.91, 0.57, 127.59, 78.31, 96.57, 72.46, 94.8]
+Average (%):  76.44
+Means for cluster number 2 (size 1402) for K=7:
+{'age': 27.77, 'age_diff': -3.77, 'reach': 191.06, 'reach_diff': 4.23, 'won': 24.44, 'won_diff': -5.61, 'kos': 16.41, 'kos_diff': -2.86}
+Relative differences to global means (%):
+[3.1, 62.6, 5.02, 79.2, 25.82, 158.11, 11.09, 182.17]
+Average (%):  65.89
+Means for cluster number 3 (size 1152) for K=7:
+{'age': 30.55, 'age_diff': 4.3, 'reach': 177.42, 'reach_diff': -1.58, 'won': 25.91, 'won_diff': 3.81, 'kos': 15.26, 'kos_diff': 1.09}
+Relative differences to global means (%):
+[11.91, 132.79, 2.28, 155.7, 18.68, 14.44, 19.46, 115.6]
+Average (%):  58.86
+Means for cluster number 4 (size 851) for K=7:
+{'age': 27.0, 'age_diff': -0.84, 'reach': 179.0, 'reach_diff': -1.41, 'won': 57.83, 'won_diff': 18.24, 'kos': 33.28, 'kos_diff': 13.59}
+Relative differences to global means (%):
+[0.33, 67.86, 1.37, 162.41, 46.83, 82.13, 45.22, 82.71]
+Average (%):  61.11
+Means for cluster number 5 (size 1312) for K=7:
+{'age': 22.42, 'age_diff': -9.69, 'reach': 180.29, 'reach_diff': 1.5, 'won': 18.65, 'won_diff': -16.03, 'kos': 11.62, 'kos_diff': -7.81}
+Relative differences to global means (%):
+[20.03, 85.45, 0.65, 41.33, 64.88, 120.34, 56.88, 130.09]
+Average (%):  64.96
+Means for cluster number 6 (size 1614) for K=7:
+{'age': 22.67, 'age_diff': -1.35, 'reach': 175.17, 'reach_diff': 0.52, 'won': 13.39, 'won_diff': -0.96, 'kos': 7.86, 'kos_diff': -0.01}
+Relative differences to global means (%):
+[18.7, 4.44, 3.59, 69.23, 129.65, 439.58, 131.93, 23600.0]
+Average (%):  3049.64
+Means for cluster number 7 (size 592) for K=7:
+{'age': 37.07, 'age_diff': 7.64, 'reach': 190.26, 'reach_diff': 2.18, 'won': 46.83, 'won_diff': 19.92, 'kos': 30.77, 'kos_diff': 13.23}
+Relative differences to global means (%):
+[27.41, 118.46, 4.63, 59.63, 34.34, 83.63, 40.75, 82.24]
+Average (%):  56.39
